@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#F6EFE6"/>
+  <g transform="translate(80,60)">
+    <ellipse cx="320" cy="180" rx="180" ry="90" fill="#3E2B25" opacity="0.08"/>
+    <rect x="140" y="40" width="320" height="220" rx="24" fill="#fff" stroke="#e9e0d6"/>
+    <text x="300" y="140" font-family="Playfair Display, serif" font-size="36" text-anchor="middle" fill="#3E2B25">Royal</text>
+    <text x="300" y="185" font-family="Montserrat, sans-serif" font-size="18" text-anchor="middle" fill="#8b6f5f">Cardamom Bloom</text>
+  </g>
+</svg>
